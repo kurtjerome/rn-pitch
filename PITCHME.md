@@ -1,6 +1,7 @@
 ---
 
-Hello, World!
+# React Native
+### Learn once, code anywhere
 
 ---
 
